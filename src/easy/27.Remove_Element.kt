@@ -1,3 +1,5 @@
+package easy
+
 fun main(args: Array<String>) {
     println(removeElement(intArrayOf(3, 2, 2, 3), 3))
     println(removeElement(intArrayOf(0, 1, 2, 2, 3, 0, 4, 2), 2))

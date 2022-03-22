@@ -1,3 +1,5 @@
+package easy
+
 fun main(args: Array<String>) {
     println(isPalindrome(121))
 }

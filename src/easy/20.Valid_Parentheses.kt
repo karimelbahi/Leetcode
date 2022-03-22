@@ -1,3 +1,5 @@
+package easy
+
 import java.util.*
 
 fun main(args: Array<String>) {

@@ -1,3 +1,5 @@
+package easy
+
 fun main(args: Array<String>) {
     var lst = intArrayOf(3, 3, 2, 5, 9)
     twoSum(lst, 11)
